@@ -41,7 +41,7 @@ description: "A website filled with blog posts and money saving dessert recipes"
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
+avatar: assets/img/avatar.jpg
 favicon: assets/favicon.ico
 
 # Your blog on the home page can be arranged as a grid
