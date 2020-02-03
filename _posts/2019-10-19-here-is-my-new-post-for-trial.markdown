@@ -24,6 +24,8 @@ After the launch of YouTube in 2005, video blogging or '*vlogging*' became a leg
 
 Blogging started to stagnate for a while until 2012. To push the envelope for blogging and news reporting, Medium, a brand new blogging platform, was founded. As well as LinkedIn's influencer blogging platform Pulse. In 2016, WordPress rolled out the .blog domain, which allowed blogs to take advantage of the rapid increase of this media form.
 
-And in the four years since then, blogging has continued to grow, and according to Statista, the number of bloggers is expected to reach 31.7 million this year. That's a lot of people.
+And in the four years since then, blogging has continued to grow, and according to Statista, the number of bloggers is expected to reach 31.7 million this year.
+
+That's a lot of people.
 
 [![Vlogger](/_uploads/Vlogger.jpg)](/_uploads/Vlogger.jpg)
