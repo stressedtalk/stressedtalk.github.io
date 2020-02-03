@@ -12,28 +12,17 @@ caption: The First Recorded Blogger
 
 Cast your mind back to 1994. Jeff Bezos had just founded Amazon, the first PlayStation was released in Japan and would go on to sell 100 million units, Justin Hall created the first blog post at [Links.net](http://www.links.net/vita/), and The Lion King hits the big screen with box-office success. Now, one of these things isn't like the others, and it isn't all that accurate either.
 
-You've probably guessed it by now, Justin Hall didn't create the first 'blog', rather he referred to it as his personal homepage. A personal homepage that he has been updating with information since he first made it in 1994, and it is worth a quick look through if you have the time.
+You've probably guessed it by now, Justin Hall didn't create the first 'blog'; instead he referred to it as his personal homepage. A personal homepage that he has been updating with information since he first made it in 1994, and it is worth a quick look through if you have the time.
 
- The word 'blog' didn't get coined until 1999
-
-This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
+ The word 'blog' didn't get coined until 1999 by Peter Morholz. After more people followed Hall's example and started to share their lives online, Jorn Barger coined the term 'weblog' in 1997 to describe these sites. This term reflected the process of '*logging the web*'
 
 > Here follows some more placeholder text. You can see the `markdown` when viewing this post in Atom. This is a _blockquote_.
-
-
-By impossible of in difficulty discovered celebrated ye. Justice joy manners boy met resolve produce. Bed head loud next plan rent had easy add him. To open draw dear be by side like.
-
-It sportsman earnestly ye preserved an on. Moment led family sooner cannot her window pulled any. Or raillery if improved landlord to speaking hastened differed he. Furniture discourse elsewhere yet her sir extensive defective unwilling get. Why resolution one motionless you him thoroughly. Written address greatly get attacks inhabit pursuit our but. Lasted hunted enough an up seeing in lively letter. Had judgment out opinions property the supplied.
-
-Dependent certainty off discovery him his tolerably offending. Ham for attention remainder sometimes additions recommend fat our. Direction has strangers now believing. Respect enjoyed gay far exposed parlors towards. Enjoyment use tolerably dependent listening men. No peculiar in handsome together unlocked do by. Article concern joy anxious did picture sir her.
-
-Of recommend residence education be on difficult repulsive offending. Judge views had mirth table seems great him for her. Alone all happy asked begin fully stand own get. Excuse ye seeing result of we. See scale dried songs old may not. Promotion did disposing you household any instantly. Hills we do under times at first short an.
 
 ## Here is a an image
 
 [![Wooden Type](/_uploads/type.jpg)](/_uploads/type.jpg)
 
-She who arrival end how fertile enabled. Brother she add yet see minuter natural smiling article painted. Themselves at dispatched interested insensible am be prosperous reasonably it. In either so spring wished. Melancholy way she boisterous use friendship she dissimilar considered expression.
+
 
 * Here is a sequence of bulleted text.
 * And we can just use an asterisk at the front of each line
