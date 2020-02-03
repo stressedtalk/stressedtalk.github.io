@@ -10,7 +10,8 @@ header_feature_image: _uploads/bloghistory.jpg
 caption: The First Recorded Blogger
 ---
 
-Blog post about the history behind blogging - who was the first?
+Cast your mind back to 1994. Jeff Bezos founded Amazon, the first PlayStation was released in Japan, Justin Hall created the first blog, and The Lion King hits the big screen with box-office success. Now, one of these things isn't like the others, and it isn't that accurate either.
+
 
 
 This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
