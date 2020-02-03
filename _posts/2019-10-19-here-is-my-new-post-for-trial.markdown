@@ -18,7 +18,7 @@ The word '*blog*' didn't get coined until 1999 by Peter Morholz. After more peop
 
 However, it wasn't until 2002 when blogging really took off. With the founding of TheMommyBlog.com and the surge in '*Mommy*' bloggers, just ten years later, there were more than **3.9 million** mommy blogs in North America alone. Combine this with the launch of Blogads, which was the first broker of blog advertising, and you have a recipe for success. Or at least a popular trend.
 
-[![The Mommy Blogger](/_uploads/blogger)](/_uploads/blogger)
+[![The Mommy Blogger ](/_uploads/blogger)](/_uploads/blogger)
 
 After the launch of YouTube in 2005, video blogging or '*vlogging*' became a legitimate force that it had been trying to become since 2003.  A year later, the microblogging era began, with the launch of Twitter and continues into the next year with the launch of Tumblr. Though Tumblr arguably offered a more traditional type of blogging experience compared to Twitter. *Microblogging* refers to the sharing of stories, news and other content in the smallest format, which is 140 characters.
 
@@ -28,4 +28,4 @@ And in the four years since then, blogging has continued to grow, and according 
 
 That's a lot of people.
 
-[![Vlogger](/_uploads/Vlogger.jpg)](/_uploads/Vlogger.jpg)
+[![Vlogging Setup](/_uploads/Vlogger.jpg)](/_uploads/Vlogger.jpg)
