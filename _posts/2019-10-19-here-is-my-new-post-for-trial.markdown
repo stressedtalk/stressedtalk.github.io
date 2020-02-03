@@ -1,6 +1,6 @@
 ---
 title: The Ancient History Of Blogging
-date: 2020-01-28 00:00:00 Z
+date: 2020-02-03 00:00:00 Z
 tags:
 - Journalism
 - Blogging
@@ -10,9 +10,11 @@ header_feature_image: _uploads/bloghistory.jpg
 caption: The First Recorded Blogger
 ---
 
-Cast your mind back to 1994. Jeff Bezos founded Amazon, the first PlayStation was released in Japan, Justin Hall created the first blog, and The Lion King hits the big screen with box-office success. Now, one of these things isn't like the others, and it isn't that accurate either.
+Cast your mind back to 1994. Jeff Bezos had just founded Amazon, the first PlayStation was released in Japan and would go on to sell 100 million units, Justin Hall created the first blog post at [Links.net](http://www.links.net/vita/), and The Lion King hits the big screen with box-office success. Now, one of these things isn't like the others, and it isn't all that accurate either.
 
+You've probably guessed it by now, Justin Hall didn't create the first 'blog', rather he referred to it as his personal homepage. A personal homepage that he has been updating with information since he first made it in 1994, and it is worth a quick look through if you have the time.
 
+ The word 'blog' didn't get coined until 1999
 
 This is just a sample post that you should delete or set to `published:false`. This first paragraph will appear on the home page as a preview of the post. The rest below this paragraph will appear on the blog post page. The `header_feature_image` is optional and you should enter the path to it in the metadata above.
 
