@@ -6,7 +6,7 @@ tags:
 - kickstarter
 - author
 - blog
-header_feature_image: "/uploads/kickstarter.jpg"
+header_feature_image: _uploads/kickstarter.jpg
 caption: 'Kickstarter Success '
 ---
 
@@ -25,4 +25,3 @@ Publishing using Kickstarter has become so popular that the website has a dedica
 I've decided to back a project entitled [*'Where the Veil is Thin'*](https://www.kickstarter.com/projects/1982216861/where-the-veil-is-thin-anthology/description) which is 'an anthology of faerie tales from a diverse collection of authors that might push the boundaries of what you expect a faerie tale should or could be'. The project is just under halfway funded and only has 11 days to go, so expect an update to see if the project was successful or not.
 
 ![wheretheveilisthin.jpg](/uploads/wheretheveilisthin.jpg)
-
