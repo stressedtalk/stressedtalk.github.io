@@ -1,22 +1,21 @@
 ---
-title: Moussaka
+title: Treacle Tart
 date: 2019-10-19 00:00:00 Z
 tags:
-- Greek
-- Meat
-- Hot
+- Dessert
+- Tart
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 
+order:
 ---
 
-# Moussaka
+# Treacle Tart
 
-There are variations on this basic recipe, sometimes with no sauce, sometimes with other vegetables. The most common variant in Greece may include zucchini (courgette), part-fried potatoes or sautéed mushrooms in addition to the eggplant.
+If you have a sweet tooth, then treacle tart is the one for you. The tart can be served as a pudding with custard or a dollop of cream. Alternatively, serve a slice with afternoon tea, or simply as a treat with a cup of tea. This may be a rich dessert but don't worry because you only need a small slice to enjoy the delicious taste. You will not be sorry.
 
 <!--more-->
 
-[![Moussaka](/_uploads/moussaka.jpg)](/_uploads/moussaka.jpg)
+[![Treacle Tart and Cream](/_uploads/Treacle Tart.jpg)](/_uploads/Treacle Tart.jpg)
 
 ## Ingredients
 
