@@ -15,7 +15,8 @@ If you have a sweet tooth, then treacle tart is the one for you. The tart can be
 
 <!--more-->
 
-[![Treacle Tart and Cream](/_uploads/Treacle Tart.jpg)](/_uploads/Treacle Tart.jpg)
+[![Treacle Tart and Ice Cream](/_uploads/Treacle Tart.jpg)](/_uploads/Treacle Tart.jpg)
+
 
 ## Ingredients
 
