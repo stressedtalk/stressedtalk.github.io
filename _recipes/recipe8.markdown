@@ -33,6 +33,6 @@ Gorgeous meringues - gooey on the inside, with a hint of coconut. Serve with a t
 
 **Tip**: To keep your meringue from being flat and grainy, try beating egg whites until stiff but not dry. Overbeaten egg whites will lose volume and deflate when folded into other ingredients. Also, when beating in sugar, beat in about 1 tablespoon at a time, beating well between each addition. Then beat until meringue is thick, white and glossy. Be absolutely sure not a particle of grease or egg yolk gets into the whites.
 
-**Serves:** 12
-**Preparation time:** 1 hour 15 minutes
-**Serving Cost:** 7p
+- **Serves:** 12
+- **Preparation time:** 1 hour 15 minutes
+- **Serving Cost:** 7p

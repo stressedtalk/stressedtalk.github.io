@@ -34,6 +34,6 @@ A traditional British pudding that's comforting and delicious. This simple recip
 4. Press down firmly to compress the pudding and help the bread absorb the milk mixture.
 5. Pop in the oven at 180 C / Gas 4 and bake until golden brown and the custard mixture is set. I like to serve this with custard but it goes well with cream, ice cream or on its own.
 
-**Serves:** 4
-**Preparation time:** 55 minutes
-**Serving Cost:** 47p
+- **Serves:** 4
+- **Preparation time:** 55 minutes
+- **Serving Cost:** 47p
