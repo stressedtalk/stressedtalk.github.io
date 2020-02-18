@@ -14,6 +14,8 @@ Steam a traditional fruity sponge pudding with suet, citrus zest and currants th
 
 <!--more-->
 
+[![Fruit Sponge](/_uploads/fruitsponge.jpg)](/_uploads/fruitsponge.jpg)
+
 ## Ingredients
 
 ### Sponge Pudding:

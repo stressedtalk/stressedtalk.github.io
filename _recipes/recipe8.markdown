@@ -14,6 +14,8 @@ Gorgeous meringues - gooey on the inside, with a hint of coconut. Serve with a t
 
 <!--more-->
 
+[![Coconut Meringues](/_uploads/Coconutmeringues.jpg)](/_uploads/Coconutmeringues.jpg)
+
 ## Ingredients
 
 2 Egg whites

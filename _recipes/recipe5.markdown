@@ -14,7 +14,7 @@ Eve's pudding is a deliciously comforting combination of stewed apples and spong
 
 <!--more-->
 
-[![Apple Crumble](/_uploads/apple crumble.jpg)](/_uploads/apple crumble.jpg)
+
 
 ## Ingredients
 
