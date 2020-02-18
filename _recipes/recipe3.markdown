@@ -1,36 +1,39 @@
 ---
-title: Crème Caramel
+title: Bread and Butter Pudding
 date: 2019-10-19 00:00:00 Z
 tags:
 - Dessert
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 2
+order: 3
 ---
 
-# Crème Caramel
+# Bread and Butter Pudding
 
-A perfect balance of lightness and indulgence - once you've mastered making caramel with our step by step guide this favourite is surprisingly easy to make
+A traditional British pudding that's comforting and delicious. This simple recipe stays true to the original flavours, but if you're looking for a twist, why not swap the sultanas for currants or chopped, dried apricots, substitute lemon zest for orange or spread coarse marmalade or berry jam over the buttered bread slices.
 
 <!--more-->
 
-[![Crème Caramel](/_uploads/creme caramel.jpg)](/_uploads/creme caramel.jpg)
+[![Bread and Butter Pudding](/_uploads/breadandbutterpudding.jpg)](/_uploads/breadandbutterpudding.jpg)
+
 ## Ingredients
 
-- 100g (4 oz) Caster sugar
-- 450ml (16 fl oz) Semi skimmed milk
-- 2 Eggs, beaten
-- 2 Egg yolks, beaten
-- 75g (3 oz) Caster sugar
+- 8 Slices of stale bread (crusts as well), any type
+- 2 Eggs
+- 425ml (3/4 pint) of Milk
+- Pinch of nutmeg
+- Butter
+- Dried fruit
+- Sugar
 
 ## Method
 
-1. Preheat oven to 180 C / Gas mark 4.
-2. In a heavy bottomed saucepan over medium heat, melt 100g sugar until golden. Carefully pour hot sugar evenly into four ovenproof ramekins or custard cups, tilting cups to coat bottoms evenly.
-3. In another saucepan, bring milk just to boil over medium heat. Stir hot milk, a little at a time, into beaten eggs and egg yolks, until well combined. Stir in 75g sugar. Pour milk mixture evenly into ramekins.
-4. Line a roasting tin with a damp tea towel. Place ramekins on cloth, inside roasting tin, and place roasting tin on oven rack. Fill roasting tin with boiling water to reach halfway up the sides of the ramekins.
-5. Bake in preheated oven for 40 minutes, until set. Let cool, invert onto small plates and serve.
+1. Butter the bread (I like to put some butter on both sides of the crusts) and cut into triangles.
+2. Grease a casserole dish or deep sided cake tin, and add a layer of buttered bread.
+3. Sprinkle with sugar and dried fruit. Repeat layers until all the bread is evenly distributed, then mix the egg and milk and pour over the bread.
+4. Press down firmly to compress the pudding and help the bread absorb the milk mixture.
+5. Pop in the oven at 180 C / Gas 4 and bake until golden brown and the custard mixture is set. I like to serve this with custard but it goes well with cream, ice cream or on its own.
 
 - Serves: 4
-- Preparation time: 1 hour 10 minutes
-- Serving Cost: 41p
+- Preparation time: 55 minutes
+- Serving Cost: 47p

@@ -10,11 +10,12 @@ order: 2
 
 # Crème Caramel
 
-A perfect balance of lightness and indulgence - once you've mastered making caramel with our step by step guide this favourite is surprisingly easy to make
+A perfect balance of lightness and indulgence - once you've mastered making caramel with our step by step guide this favourite is surprisingly easy to make.
 
 <!--more-->
 
-[![Crème Caramel](/_uploads/creme caramel.jpg)](/_uploads/creme caramel.jpg)
+[![Crème Caramel](/_uploads/cremecaramel.jpg)](/_uploads/cremecaramel.jpg)
+
 ## Ingredients
 
 - 100g (4 oz) Caster sugar
