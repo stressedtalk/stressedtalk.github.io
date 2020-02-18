@@ -5,7 +5,7 @@ tags:
 - Dessert
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 9
+order: 10
 ---
 
 # Fruit Sponge with Lemon Syrup
