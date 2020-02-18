@@ -1,52 +1,36 @@
 ---
-title: Any Recipe
+title: Crème Caramel
 date: 2019-10-19 00:00:00 Z
 tags:
-- Dutch
-- Fish
-- Main
+- Dessert
 layout: recipe
 excerpt_separator: "<!--more-->"
-order: 3
+order: 2
 ---
 
-# Recipe Title
+# Crème Caramel
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+A perfect balance of lightness and indulgence - once you've mastered making caramel with our step by step guide this favourite is surprisingly easy to make
 
 <!--more-->
 
+[![Crème Caramel](/_uploads/creme caramel.jpg)](/_uploads/creme caramel.jpg)
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
-
+- 100g (4 oz) Caster sugar
+- 450ml (16 fl oz) Semi skimmed milk
+- 2 Eggs, beaten
+- 2 Egg yolks, beaten
+- 75g (3 oz) Caster sugar
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Preheat oven to 180 C / Gas mark 4.
+2. In a heavy bottomed saucepan over medium heat, melt 100g sugar until golden. Carefully pour hot sugar evenly into four ovenproof ramekins or custard cups, tilting cups to coat bottoms evenly.
+3. In another saucepan, bring milk just to boil over medium heat. Stir hot milk, a little at a time, into beaten eggs and egg yolks, until well combined. Stir in 75g sugar. Pour milk mixture evenly into ramekins.
+4. Line a roasting tin with a damp tea towel. Place ramekins on cloth, inside roasting tin, and place roasting tin on oven rack. Fill roasting tin with boiling water to reach halfway up the sides of the ramekins.
+5. Bake in preheated oven for 40 minutes, until set. Let cool, invert onto small plates and serve.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Serves: 4
+- Preparation time: 1 hour 10 minutes
+- Serving Cost: 41p
