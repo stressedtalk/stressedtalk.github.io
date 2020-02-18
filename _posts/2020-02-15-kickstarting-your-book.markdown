@@ -1,7 +1,6 @@
 ---
 title: Kickstarting your book
 date: 2020-02-15 13:35:00 Z
-published: false
 tags:
 - books
 - kickstarter
