@@ -6,7 +6,7 @@ tags:
 - Tart
 layout: recipe
 excerpt_separator: "<!--more-->"
-order:
+order: 
 ---
 
 # Treacle Tart
