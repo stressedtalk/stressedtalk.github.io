@@ -20,7 +20,7 @@ A traditional British pudding that's comforting and delicious. This simple recip
 
 - 8 Slices of stale bread (crusts as well), any type
 - 2 Eggs
-- 425ml (3/4 pint) of Milk
+- 425ml (&frac34; pint) of Milk
 - Pinch of nutmeg
 - Butter
 - Dried fruit

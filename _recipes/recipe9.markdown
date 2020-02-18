@@ -22,7 +22,7 @@ A warm and delicious Baked Rice Pudding recipe make with cooked rice, nutmeg, an
 450ml (16 fl oz) Semi-skimmed milk
 100g (4 oz) Caster sugar
 1 Teaspoon vanilla extract
-1/2 Teaspoon salt
+&frac12; Teaspoon salt
 60g (2 oz) Raisins
 1 Pinch ground nutmeg
 

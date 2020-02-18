@@ -22,8 +22,8 @@ Make the most of your cooking apples and bake them up into a delicious crumble. 
 - 75g Porridge oats				
 - 125g Plain flour					
 - 225g Dark brown soft sugar			
-- 1/4 Teaspoon baking powder			
-- 1/4 Teaspoon bicarbonate of soda		
+- &frac14; Teaspoon baking powder			
+- &frac14; Teaspoon bicarbonate of soda		
 - 125g Butter, melted
 
 ### Filling:

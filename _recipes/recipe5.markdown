@@ -20,7 +20,7 @@ Eve's pudding is a deliciously comforting combination of stewed apples and spong
 
 - 4 Eating apples - peeled, cored and sliced
 - 50g (1¾ oz) Self-raising flour
-- 1/4 Teaspoon baking powder
+- &frac14; Teaspoon baking powder
 - 30g (1 oz) Butter
 - 50g (1¾ oz) Caster sugar
 - 1 Large egg

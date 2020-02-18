@@ -20,13 +20,13 @@ Profiteroles make a stunning dessert for any occasion, especially when homemade.
 250ml (8 fl oz) Water
 125g (4¼ oz) Butter
 125g (4¼ oz) Plain flour
-1/4 Teaspoon salt
+&frac14;	Teaspoon salt
 4 Eggs
 
 ### Filling:
 450ml (16 fl oz) Double cream
 1 Tablespoon caster sugar
-1/2 Teaspoon vanilla extract
+&frac12; Teaspoon vanilla extract
 
 ### Topping:
 75g (3 oz) Plain chocolate
