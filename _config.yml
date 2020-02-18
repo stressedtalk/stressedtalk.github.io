@@ -41,7 +41,7 @@ favicon: assets/favicon.ico
 gridlayout: true
 recipemenu: true
 header_text: Here is my blog and here are my recipes. Enjoy.
-recipecollection: Your recipe collection
+recipecollection: Treat Well For Less
 header_feature_image: "/uploads/bookheader.jpg"
 recipe_bookcover: "/uploads/treatwell.jpg"
 twitter_username:
@@ -53,7 +53,7 @@ facebook:
 flickr:
 google_plus:
 instagram:
-linkedin: 
+linkedin:
 pinterest:
 soundcloud:
 twitter:
