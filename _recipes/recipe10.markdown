@@ -20,20 +20,20 @@ Steam a traditional fruity sponge pudding with suet, citrus zest and currants th
 ## Ingredients
 
 ### Sponge Pudding:
-175g Self-raising flour
-Pinch of ground cinnamon
-Pinch of salt
-50g Caster sugar
-75g Shredded suet or coarsely grated chilled butter
-75g Currants
-Finely grated zest of &frac12; lemon
-1 Egg, lightly beaten
-5 Tablespoon semi-skimmed milk
+- 175g Self-raising flour
+- Pinch of ground cinnamon
+- Pinch of salt
+- 50g Caster sugar
+- 75g Shredded suet or coarsely grated chilled butter
+- 75g Currants
+- Finely grated zest of &frac12; lemon
+- 1 Egg, lightly beaten
+- 5 Tablespoon semi-skimmed milk
 
 ### Lemon Syrup:
-4 Tablespoon golden syrup
-Finely grated zest of &frac12; lemon
-2 Tablespoon lemon juice
+- 4 Tablespoon golden syrup
+- Finely grated zest of &frac12; lemon
+- 2 Tablespoon lemon juice
 
 ## Method
 

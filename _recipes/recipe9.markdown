@@ -17,15 +17,15 @@ A warm and delicious Baked Rice Pudding recipe make with cooked rice, nutmeg, an
 
 ## Ingredients
 
-200g (7 oz) Uncooked short grain pudding rice
-450ml (16 fl oz) Water
-3 Eggs, beaten
-450ml (16 fl oz) Semi-skimmed milk
-100g (4 oz) Caster sugar
-1 Teaspoon vanilla extract
-&frac12; Teaspoon salt
-60g (2 oz) Raisins
-1 Pinch ground nutmeg
+- 200g (7 oz) Uncooked short grain pudding rice
+- 450ml (16 fl oz) Water
+- 3 Eggs, beaten
+- 450ml (16 fl oz) Semi-skimmed milk
+- 100g (4 oz) Caster sugar
+- 1 Teaspoon vanilla extract
+- &frac12; Teaspoon salt
+- 60g (2 oz) Raisins
+- 1 Pinch ground nutmeg
 
 ## Method
 

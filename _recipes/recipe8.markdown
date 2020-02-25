@@ -19,11 +19,11 @@ Gorgeous meringues - gooey on the inside, with a hint of coconut. Serve with a t
 
 ## Ingredients
 
-2 Egg whites
-&frac18; Teaspoon cream of tartar
-85g (3 oz) Icing sugar
-4 Tablespoons desiccated coconut
-&frac14; Teaspoon almond extract
+- 2 Egg whites
+- &frac18; Teaspoon cream of tartar
+- 85g (3 oz) Icing sugar
+- 4 Tablespoons desiccated coconut
+- &frac14; Teaspoon almond extract
 
 ## Method
 

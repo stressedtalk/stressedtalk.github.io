@@ -18,19 +18,19 @@ Profiteroles make a stunning dessert for any occasion, especially when homemade.
 ## Ingredients
 
 ### Choux pastry:
-250ml (8 fl oz) Water
-125g (4¼ oz) Butter
-125g (4¼ oz) Plain flour
-&frac14;	Teaspoon salt
-4 Eggs
+- 250ml (8 fl oz) Water
+- 125g (4¼ oz) Butter
+- 125g (4¼ oz) Plain flour
+- &frac14;	Teaspoon salt
+- 4 Eggs
 
 ### Filling:
-450ml (16 fl oz) Double cream
-1 Tablespoon caster sugar
-&frac12; Teaspoon vanilla extract
+- 450ml (16 fl oz) Double cream
+- 1 Tablespoon caster sugar
+- &frac12; Teaspoon vanilla extract
 
 ### Topping:
-75g (3 oz) Plain chocolate
+- 75g (3 oz) Plain chocolate
 
 ## Method
 
