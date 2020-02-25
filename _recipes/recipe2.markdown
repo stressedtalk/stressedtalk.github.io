@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Crème Caramel
 date: 2019-10-19 00:00:00 Z
 tags:

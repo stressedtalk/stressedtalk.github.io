@@ -1,4 +1,5 @@
 ---
+layout: recipe
 title: Baked Rice Pudding
 date: 2019-10-19 00:00:00 Z
 tags:
