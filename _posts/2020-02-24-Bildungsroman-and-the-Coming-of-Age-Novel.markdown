@@ -1,6 +1,6 @@
 ---
 title: Bildungsroman and the Coming-of-Age Novel
-date: 2020-02-19 10:35:00 Z
+date: 2020-02-24 10:35:00 Z
 tags:
 - coming-or-age
 - blog
