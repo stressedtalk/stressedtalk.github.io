@@ -1,5 +1,4 @@
 ---
-layout: recipe
 title: Classic Profiteroles
 date: 2019-10-19 00:00:00 Z
 tags:
