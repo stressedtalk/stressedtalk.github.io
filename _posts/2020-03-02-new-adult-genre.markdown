@@ -1,6 +1,6 @@
 ---
 title: What is the New Adult Genre?
-date: 2020-02-26 11:13:00 Z
+date: 2020-03-02 11:13:00 Z
 tags:
 - new adult
 - books
