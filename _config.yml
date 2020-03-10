@@ -18,55 +18,55 @@ defaults:
     type: posts
   values:
     layout: post
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    header_feature_image: 
-    caption: 
+    header_feature_image:
+    caption:
 - scope:
     path: ''
     type: recipe
   values:
     layout: recipe
-    order: 
-baseurl: 
+    order:
+baseurl:
 url: https://stressedtalk.github.io
 description: A website filled with blog posts and money saving dessert recipes
 avatar: assets/img/avatar.jpg
 favicon: assets/favicon.ico
 gridlayout: true
-recipemenu: true
+recipemenu: false
 header_text: Here is my blog and here are my recipes. Enjoy.
 recipecollection: Treat Well For Less
 header_feature_image: "/uploads/bookheader.jpg"
 recipe_bookcover: "/uploads/treatwell.jpg"
-twitter_username: 
+twitter_username:
 lang: en_gb
 footer_text: Copyright 2020 Charlotte Holden
 rss: false
-email_address: 
-facebook: 
-flickr: 
-google_plus: 
-instagram: 
-linkedin: 
-pinterest: 
-soundcloud: 
-twitter: 
-youtube: 
+email_address:
+facebook:
+flickr:
+google_plus:
+instagram:
+linkedin:
+pinterest:
+soundcloud:
+twitter:
+youtube:
 share_buttons:
   facebook: true
   twitter: true
-  tumblr: 
-  pinterest: 
-  linkedin: 
+  tumblr:
+  pinterest:
+  linkedin:
   email: true
-google_analytics: 
-disqus_shortname: 
+google_analytics:
+disqus_shortname:
 str_follow_on: Follow on
 str_rss_follow: Follow RSS feed
 str_share_on: Share on
