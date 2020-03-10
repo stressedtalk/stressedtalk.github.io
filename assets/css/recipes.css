@@ -18,7 +18,7 @@ img {
 }
 
 h1.site-title {
-  font-size:2em;
+  font-size: 2.5em;
   text-align: center;
 
 }
@@ -34,42 +34,48 @@ div.content {
   max-width: 900px; min-width: 500px;
   width: auto;
   margin: auto;
+  border: double;
+  border-color: #FAD556;
+  border-width: 15px;
+  border-radius: 100px;
 }
 
 /* Navigation */
 #post-nav {
   text-align: center;
-  max-width: 625px; min-width: 475px;
+  max-width: 600px; min-width: 475px;
   margin: auto;
   color: #57880b;
   font-size: 1em;
-  padding: 5px;
 }
 
 #previous-post {
   border-top: double;
+  border-width: thick;
   padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 #next-post {
   border-bottom: double;
+  border-bottom-width: thick;
   border-top: dashed;
   border-top-width: thin;
   padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 /* Main Information  */
 body {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   background-color: #FAD556;
-  margin: 30px;
   font-size: 1.25em;
   margin: auto;
-  padding: 0px 50px 0px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 h1.title {
-  font-size: 1.9em;
+  font-size: 2em;
   color: #57880b;
   text-align: center;
 }
@@ -123,6 +129,7 @@ img.cover {
 float:right;
 width:30%;
 margin:12px;
+max-width: 475px; min-width: 275px;
 }
 
 
