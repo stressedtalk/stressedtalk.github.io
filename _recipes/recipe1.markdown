@@ -41,6 +41,6 @@ If you have a sweet tooth, then treacle tart is the one for you. The tart can be
 
 It will keep for up to 3 days in a cake tin in the fridge.
 
-- **Serves:** 8
-- **Preparation time:** 1 hour 10 minutes
-- **Serving Cost:** 13p
+**Serves:** 8
+**Preparation time:** 1 hour 10 minutes
+**Serving Cost:** 13p

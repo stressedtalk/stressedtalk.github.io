@@ -50,6 +50,6 @@ Steam a traditional fruity sponge pudding with suet, citrus zest and currants th
 
 **Tip:** If using grated butter, chill it first in the freezer for about 20 minutes, then hold the end in a piece of foil while grating, to prevent it melting with the warmth of your hand. To microwave, leave uncovered and cook on full power at 650 watts for about 5 minutes (depending on the power of your microwave oven). Leave to stand for 3–4 minutes before turning out. To check if it is cooked through, a cocktail stick inserted in the middle should come out clean.
 
-- **Serves:** 6
-- **Preparation time:** 3 hour 5 minutes
-- **Serving Cost:** 36p
+**Serves:** 6
+**Preparation time:** 3 hour 5 minutes
+**Serving Cost:** 36p

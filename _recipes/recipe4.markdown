@@ -42,6 +42,6 @@ Make the most of your cooking apples and bake them up into a delicious crumble. 
 5. Bake the apple crumble in the preheated oven for about 45 minutes.
 
 
-- **Serves:** 12
-- **Preparation time:** 1 hour 15 minutes
-- **Serving Cost:** 39p
+**Serves:** 12
+**Preparation time:** 1 hour 15 minutes
+**Serving Cost:** 39p

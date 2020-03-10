@@ -34,6 +34,6 @@ Eve's pudding is a deliciously comforting combination of stewed apples and spong
 5. Beat the butter, sugar and egg together until smooth and creamy. Fold in the flour mixture. Pour on top of the stewed apples and spread evenly.
 6. Bake for 10 to 15 minutes until well risen, firm and springy when you touch it! Dust with icing sugar and serve with custard or whipped cream.
 
-- **Serves:** 4
-- **Preparation time:** 30 minutes
-- **Serving Cost:** 28p
+**Serves:** 4
+**Preparation time:** 30 minutes
+**Serving Cost:** 28p

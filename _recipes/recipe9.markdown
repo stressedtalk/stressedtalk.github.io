@@ -34,6 +34,6 @@ A warm and delicious Baked Rice Pudding recipe make with cooked rice, nutmeg, an
 4. Bake uncovered for 30 minutes; stir pudding and sprinkle with nutmeg. Bake additional 30 minutes or until a knife inserted halfway between the edge and the centre comes out clean.
 
 
-- **Serves:** 12
-- **Preparation time:** 1 hour 35 minutes
-- **Serving Cost:** 20p
+**Serves:** 12
+**Preparation time:** 1 hour 35 minutes
+**Serving Cost:** 20p

@@ -40,9 +40,9 @@ Profiteroles make a stunning dessert for any occasion, especially when homemade.
 5. Remove profiteroles from the oven, split and remove soft dough from the centre. Turn the oven off and return pastries to dry in the cooling oven, 20 minutes more.
 6. Cool completely on the wire rack.
 7. **For Filling:** In a medium bowl, whip cream with an electric mixer until stiff peaks form. Stir in vanilla and sugar. Fill profiteroles with whipped cream.
-8. **For Topping:** Melt chocolate in the microwave or slowly over low heat. Drizzle melted chocolate over tops of profiteroles. Serve immediately.
+8. **For Topping:** Melt chocolate in the microwave or slowly over low heat. Drizzle the melted chocolate over the tops of profiteroles. Serve immediately.
 
 
-- **Serves:** 12
-- **Preparation time:** 1 hour 15 minutes
-- **Serving Cost:** 36p
+**Serves:** 12
+**Preparation time:** 1 hour 15 minutes
+**Serving Cost:** 36p
