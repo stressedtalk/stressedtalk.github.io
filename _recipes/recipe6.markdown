@@ -39,6 +39,6 @@ Also known as tarte au citron, this elegant sweet treat has stood the test of ti
 4. **For Filling:** Meanwhile, combine eggs, caster sugar, lemon zest, lemon juice and 3 tablespoons flour and mix until smooth; pour mixture over hot pastry case.
 5. Bake 15 to 20 minutes more, until firm. Let cool completely in tin. Dust with icing sugar and cut into 12 slices.
 
-**Serves:** 12
-**Preparation time:** 50 minutes
-**Serving Cost:** 19p
+- **Serves:** 12
+- **Preparation time:** 50 minutes
+- **Serving Cost:** 19p

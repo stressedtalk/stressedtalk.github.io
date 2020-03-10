@@ -43,6 +43,6 @@ Profiteroles make a stunning dessert for any occasion, especially when homemade.
 8. **For Topping:** Melt chocolate in the microwave or slowly over low heat. Drizzle the melted chocolate over the tops of profiteroles. Serve immediately.
 
 
-**Serves:** 12
-**Preparation time:** 1 hour 15 minutes
-**Serving Cost:** 36p
+- **Serves:** 12
+- **Preparation time:** 1 hour 15 minutes
+- **Serving Cost:** 36p
