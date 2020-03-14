@@ -191,6 +191,7 @@ img.cover {
   align-self: center;
   max-width: 300px;
   filter: drop-shadow(0px 0px 10px #FAD556);
+  object-position: bottom;
 
 
 
