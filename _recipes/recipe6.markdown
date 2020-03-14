@@ -14,7 +14,7 @@ Also known as tarte au citron, this elegant sweet treat has stood the test of ti
 
 <!--more-->
 
-
+[![Lemon Tart](/_uploads/lemontart.jpg)](/_uploads/lemontart.jpg)
 
 ## Ingredients
 

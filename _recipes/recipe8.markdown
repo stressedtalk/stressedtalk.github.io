@@ -14,7 +14,7 @@ Gorgeous meringues - gooey on the inside, with a hint of coconut. Serve with a t
 
 <!--more-->
 
-[![Coconut Meringues](/_uploads/Coconutmeringues.jpg)](/_uploads/Coconutmeringues.jpg)
+[![Coconut Meringue](/_uploads/meringue.jpg)](/_uploads/meringue.jpg)
 
 ## Ingredients
 

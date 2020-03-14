@@ -14,6 +14,8 @@ A warm and delicious Baked Rice Pudding recipe make with cooked rice, nutmeg, an
 
 <!--more-->
 
+[![Baked Rice Pudding](/_uploads/ricepudding.jpeg)](/_uploads/ricepudding.jpeg)
+
 ## Ingredients
 
 - 200g (7 oz) Uncooked short grain pudding rice

@@ -14,7 +14,7 @@ Eve's pudding is a deliciously comforting combination of stewed apples and spong
 
 <!--more-->
 
-
+[![Eve's Pudding](/_uploads/evespudding.jpg)](/_uploads/evespudding.jpg)
 
 ## Ingredients
 

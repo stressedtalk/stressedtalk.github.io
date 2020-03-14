@@ -14,6 +14,8 @@ Profiteroles make a stunning dessert for any occasion, especially when homemade.
 
 <!--more-->
 
+[![Classic Profiteroles](/_uploads/profiteroles.jpg)](/_uploads/profiteroles.jpg)
+
 ## Ingredients
 
 ### Choux pastry:

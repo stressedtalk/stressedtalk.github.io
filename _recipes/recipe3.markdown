@@ -14,7 +14,7 @@ A traditional British pudding that's comforting and delicious. This simple recip
 
 <!--more-->
 
-[![Bread and Butter Pudding](/_uploads/breadandbutterpudding.jpg)](/_uploads/breadandbutterpudding.jpg)
+[![Bread and Butter Pudding](/_uploads/babpudding.jpg)](/_uploads/babpudding.jpg)
 
 ## Ingredients
 

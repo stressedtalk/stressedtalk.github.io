@@ -14,7 +14,7 @@ A perfect balance of lightness and indulgence - once you've mastered making cara
 
 <!--more-->
 
-[![Crème Caramel](/_uploads/cremecaramel.jpg)](/_uploads/cremecaramel.jpg)
+[![Creme Caramel](/_uploads/cremecaramel.jpg)](/_uploads/cremecaramel.jpg)
 
 ## Ingredients
 
