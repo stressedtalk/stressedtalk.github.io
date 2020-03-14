@@ -14,7 +14,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  max-width: 50%;
+  max-width: 60%;
+  filter: drop-shadow(0px 0px 10px #FAD556);
 }
 
 h1.site-title {
@@ -60,7 +61,7 @@ body {
   font-size: 1.25em;
   margin: 12px auto;
   padding: 0px 40px 40px 40px;
-  width: 70%;
+  width: 75%;
   border: double;
   border-color: #FAD556;
   border-width: 15px;
@@ -76,13 +77,13 @@ h1.title {
 
 h2 {
   font-size: 1.5em;
-  padding: 0px 5px 2.5px 20px;
+  padding: 0px 5px 2.5px 5px;
   color: #1E4305;
 }
 
 h3 {
   font-size: 1em;
-  padding: 0px 5px 2.25px 15px;
+  padding: 0px 5px 2.25px 10px;
   color: #57880B;
 }
 
@@ -104,7 +105,7 @@ ul {
   list-style-position: outside;
   list-style-type: none;
   font-size: 0.75em;
-  padding: 0px 5px 0px 25px;
+  padding: 0px 2.5px 0px 15px;
 }
 
 ol {
@@ -174,15 +175,24 @@ ul.recipes {
   right:20px;
 }
 
-p.homepage {
-  border: red solid;
-  text-align: left;
-  width: 70%;
+/* for the homepage */
+div.home {
+  font-size: 1em;
+  margin: 10px auto;
+  padding: 0px 15px;
+  width: 75%;
 }
 
 img.cover {
-  float: right;
-  width:30%;
-  margin:12px;
-  max-width: 475px; min-width: 275px;
-  }
+  border-radius: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-self: center;
+  max-width: 300px;
+  filter: drop-shadow(0px 0px 10px #FAD556);
+
+
+
+
+}
