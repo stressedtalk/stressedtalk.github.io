@@ -3,7 +3,7 @@ title: Recipes
 permalink: "/recipes/"
 layout: recipeshome
 subtitle: My Recipe Site
-tags: 
+tags:
 hide: false
 ---
 
