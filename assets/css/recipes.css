@@ -19,7 +19,7 @@ img {
 }
 
 h1.site-title {
-  font-size: 2.5em;
+  font-size: 3em;
   text-align: center;
 
 }
@@ -176,24 +176,15 @@ ul.recipes {
 }
 
 /* for the homepage */
-div.home {
-  font-size: 1em;
-  margin: 10px auto;
-  padding: 0px 15px;
-  width: 75%;
-}
 
 img.cover {
-  border-radius: 20%;
-  display: block;
   margin-left: auto;
   margin-right: auto;
-  align-self: center;
-  max-width: 300px;
-  filter: drop-shadow(0px 0px 10px #FAD556);
-  object-position: bottom;
+  max-width: 250px;
+  padding: 20px 0px 0px 0px;
+  border-radius: 25%;
+}
 
-
-
-
+div.branding {
+  font-family: 'Lobster Two', Tahoma, sans-serif;
 }
