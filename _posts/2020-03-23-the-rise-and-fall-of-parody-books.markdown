@@ -14,7 +14,7 @@ Since the boom of parody books in 2016, publishing companies attempts at keeping
 
 Can you really call yourself a student if your bookshelf does not contain a copy of 'How it Works: The Student', especially if you left for uni during the peak of parody book sales. However, with this genre suddenly being inundated with new titles from all directions, it is not hard to see why the lifespan of the genre is much shorter compared to others. Especially when the premise is to look and find humour in topics such as Brexit and now COVID-19. 
 
-![Students.jpg](/uploads/Students.jpg)
+![Ladybird Books for Adults.jpg](/uploads/Ladybird%20Books%20for%20Adults.jpg)
 
 By looking at ways to tap into peoples childhoods and subvert it with adult themes, these books work well in being both faithful and unfaithful at the same time. Though parody books can sometimes mock the original text, it is often used as a tool to convey other topics playfully. Sometimes, this can be used to 'soften the blow' of the issue in question, which can be important when looking at politics or, in the case or more recent books, pandemics. 
 
@@ -26,4 +26,4 @@ These three series and their subversion of the original material meant that adul
 
 Despite these types of books being less prevalent now, parody and humour as book genres are still going strong. The number of books available to pre-order on the Waterstones website grows each day, and the already wide variety of topics and formats gets expanded upon. 
 
-![Screenshot 2020-04-20 at 12.58.56 PM.png](/uploads/Screenshot%202020-04-20%20at%2012.58.56%20PM.png)
+![Waterstones Humour Selection.png](/uploads/Waterstones%20Humour%20Selection.png)
