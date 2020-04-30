@@ -8,4 +8,4 @@ tags:
 - publishing
 ---
 
-While I am by no means an expert on cover design, you do not have to be to notice that when it comes to specific genres, you can almost guarantee what the cover is going to look like. When I was looking up academic covers for one of my university projects, I was shocked, but not totally surprised, to see that something similar was occurring. 
+While I am by no means an expert on cover design, you do not have to be to notice that when it comes to specific genres, you can almost guarantee what the cover is going to look like. When I was looking up academic textbook covers for one of my university projects, I was shocked, but not totally surprised, to see that something similar was occurring. 
