@@ -1,5 +1,5 @@
 ---
-title: Bildungsroman and the Coming-of-Age Novel
+title: Bildungsroman and the Coming-Of-Age Novel
 date: 2020-02-24 10:35:00 Z
 tags:
 - coming-or-age
