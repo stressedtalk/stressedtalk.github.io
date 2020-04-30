@@ -1,5 +1,5 @@
 ---
-title: Cashing in on a pandemic?
+title: Cashing in on a Pandemic?
 date: 2020-04-20 12:43:00 Z
 published: false
 tags:
