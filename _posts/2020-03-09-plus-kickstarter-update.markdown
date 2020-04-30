@@ -1,5 +1,5 @@
 ---
-title: Climate Neutral Publishing + Kickstarter Update
+title: Climate Neutral Publishing and Kickstarter Update
 date: 2020-03-09 18:40:00 Z
 tags:
 - blog
