@@ -1,5 +1,5 @@
 ---
-title: Kickstarting your book
+title: Kickstarting Your Book
 date: 2020-02-17 13:35:00 Z
 tags:
 - books
