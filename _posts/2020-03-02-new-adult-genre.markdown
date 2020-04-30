@@ -1,5 +1,5 @@
 ---
-title: What is the New Adult Genre?
+title: What Is the New Adult Genre?
 date: 2020-03-02 11:13:00 Z
 tags:
 - new adult
